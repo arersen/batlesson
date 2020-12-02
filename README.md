@@ -435,14 +435,9 @@ command2
     </UL>
     <P>Последние, кстати, присутствуют в Windows 2000/XP по умолчанию (с некоторыми функциональными различиями) и в целом могут считаться заменой *.bat языку. Однако сдается мне, что *.bat-файлы проживут еще очень долго.</P>
     <P>Дай Бог, чтобы я ошибся…</P>
-  <H2>Материалы по теме<A name="EDBAE"></A></H2>
+  
     <OL>
       <LI>
-        <A href="http://home.earthlink.net/~rlively/MANUALS/INDEX.HTM" class="link-ext" target="_blank">Windows Batch Files – Commands Reference</A>.</LI>
-      <LI>
-        <A href="http://www.books.ru/shop/books/118194" class="link-ext" target="_blank">Windows 2000. Команды: Карманный справочник. Э. Фриш. – М.: Мир, 2003.</A>
-      </LI>
-    </OL>
-  <DIV align="right"><FONT style="font-family:arial;font-size:9pt;color:#8088a0"><I><HR color="#8088a0" width="100%" size="1" /><div align="justify"><font size="2">
+       
                    
                                          
